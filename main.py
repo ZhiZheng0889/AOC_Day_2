@@ -1,10 +1,10 @@
 #import re to more efficiently create a list from the text file
 import re
 
-#Open day 1 input text file
+#Open day 2 input text file
 my_file = open("Day2.txt", "r")
 
-#Create a list to put the inputs from Day1.txt into
+#Create a list to put the inputs from Day2.txt into
 day2inputlist = []
 
 #Looping the inputs into the list
